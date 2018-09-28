@@ -4,7 +4,7 @@ Section: Widgets
 Maintainer: Thomz <thom.laffay@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.com.thomz.linedget.deb
+Filename: https://thmz07.github.io/debs/com.com.thomz.linedget.deb
 Size: 796 532
 MD5sum: 94d8dc5738e0783b941c7ccc8b4b9c24
 Description: A customizable Widget for the homescreen
